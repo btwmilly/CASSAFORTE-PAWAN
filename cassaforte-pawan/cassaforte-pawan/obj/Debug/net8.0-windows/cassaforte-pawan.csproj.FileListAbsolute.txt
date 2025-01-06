@@ -1,0 +1,6 @@
+C:\Users\pawan\source\repos\cassaforte-pawan\cassaforte-pawan\obj\Debug\net8.0-windows\cassaforte_pawan.Form1.resources
+C:\Users\pawan\source\repos\cassaforte-pawan\cassaforte-pawan\obj\Debug\net8.0-windows\cassaforte-pawan.csproj.GenerateResource.cache
+C:\Users\pawan\source\repos\cassaforte-pawan\cassaforte-pawan\obj\Debug\net8.0-windows\cassaforte-pawan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawan\source\repos\cassaforte-pawan\cassaforte-pawan\obj\Debug\net8.0-windows\cassaforte-pawan.AssemblyInfoInputs.cache
+C:\Users\pawan\source\repos\cassaforte-pawan\cassaforte-pawan\obj\Debug\net8.0-windows\cassaforte-pawan.AssemblyInfo.cs
+C:\Users\pawan\source\repos\cassaforte-pawan\cassaforte-pawan\obj\Debug\net8.0-windows\cassaforte-pawan.csproj.CoreCompileInputs.cache
